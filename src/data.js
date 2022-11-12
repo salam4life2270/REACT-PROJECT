@@ -1,4 +1,4 @@
- 
+ /** This are the images used for the project */
  export const images = [
     "https://progitek.no/privat/bp/wp-content/uploads/2021/09/pexels-helena-lopes-2253275.jpg",
 	"https://progitek.no/privat/bp/wp-content/uploads/2021/09/pexels-marko-blazevic-774731.jpg",
