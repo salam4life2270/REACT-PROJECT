@@ -65,7 +65,7 @@ function MemoryGame() {
         console.log(array)
         return array
     }
-/** This code block allow users to rest and start a new game */
+/** This code block allow users to reset and start a new game */
     function startOver() {
         setCardsChosenIds([])
         setCardsChosen([])
